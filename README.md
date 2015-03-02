@@ -7,8 +7,8 @@ All 9 weights of the font as retrieved on 2014-08-18 from [Font Squirrel](http:/
 ### [Demo](http://softwaymedical.github.io/raleway/)
 ***
 
-Installation
-------------
+Install
+-------
 ```
 bower install raleway
 ```
