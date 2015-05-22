@@ -1,6 +1,6 @@
 {
-  "name": "raleway-fontface",
-  "version": "1.0.0",
+  "name": "raleway",
+  "version": "1.0.1",
   "main": "./raleway.css",
   "homepage": "https://github.com/softwaymedical/raleway",
   "authors": [
